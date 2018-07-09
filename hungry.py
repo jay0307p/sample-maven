@@ -8,3 +8,5 @@ else:
 		print("drink water")
 		print("drink soda")
 	
+	print("do your homework")
+	print("take some rest")
